@@ -8,7 +8,7 @@ Features include:
 - Error handling for invalid inputs
 
 ## 🚀 Live Demo
-[Click here to view](https://your-username.github.io/calculator-web/)
+[Click here to view](https://abhinav270204.github.io/calculator-web/)
 
 ## 🛠️ Tech Stack
 - HTML
@@ -19,5 +19,5 @@ Features include:
 Clone this repo and open `index.html` in your browser:
 
 ```bash
-git clone https://github.com/your-username/calculator-web.git
+git clone https://github.com/abhinav270204/calculator-web.git
 cd calculator-web
